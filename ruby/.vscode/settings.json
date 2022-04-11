@@ -1,6 +1,4 @@
 {
     "editor.formatOnSave": true,
-    "editor.formatOnSaveTimeout": 1000,
-    "ruby.rubocop.executePath": "/Users/brandonminner/.gem/gems/rubocop-1.26.1/exe/",
     "ruby.format": "rubocop",
 }
